@@ -1,0 +1,99 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SugarDay/1.0.0": {
+        "dependencies": {
+          "CsharpCode": "1.0.0",
+          "Data": "1.0.0",
+          "MaterialDesignThemes": "3.1.3",
+          "Programme": "1.0.0"
+        },
+        "runtime": {
+          "SugarDay.dll": {}
+        }
+      },
+      "MaterialDesignColors/1.2.6": {
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignColors.dll": {
+            "assemblyVersion": "1.2.6.1513",
+            "fileVersion": "1.2.6.1513"
+          }
+        }
+      },
+      "MaterialDesignThemes/3.1.3": {
+        "dependencies": {
+          "MaterialDesignColors": "1.2.6"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/MaterialDesignThemes.Wpf.dll": {
+            "assemblyVersion": "3.1.3.1513",
+            "fileVersion": "3.1.3.1513"
+          }
+        }
+      },
+      "CsharpCode/1.0.0": {
+        "runtime": {
+          "CsharpCode.dll": {}
+        }
+      },
+      "Data/1.0.0": {
+        "dependencies": {
+          "CsharpCode": "1.0.0"
+        },
+        "runtime": {
+          "Data.dll": {}
+        }
+      },
+      "Programme/1.0.0": {
+        "dependencies": {
+          "CsharpCode": "1.0.0",
+          "Data": "1.0.0"
+        },
+        "runtime": {
+          "Programme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SugarDay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialDesignColors/1.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3x9k3T0wUxIGg5C1D6JQQXw/N549eHhIsiyF791VjgK+8sZU8ywpFaZwbd0KArQJiFJ7Ud14Vgl/63E6O86EFw==",
+      "path": "materialdesigncolors/1.2.6",
+      "hashPath": "materialdesigncolors.1.2.6.nupkg.sha512"
+    },
+    "MaterialDesignThemes/3.1.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pyB9HqalbdGmX9iGUIjb82zgtQ5zUCfRqZG/w6AV3+oAI3WMEgzAwzA+NfIlzSPQx4iUz+Xl/O6HcsXoxuuM0g==",
+      "path": "materialdesignthemes/3.1.3",
+      "hashPath": "materialdesignthemes.3.1.3.nupkg.sha512"
+    },
+    "CsharpCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Programme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

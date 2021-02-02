@@ -1,0 +1,59 @@
+﻿<Window x:Class="SugarDay.AjouterUstensile"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SugarDay"
+        mc:Ignorable="d"
+        Title="AjouterUstensile" Height="200" Width="600" Background="#ECE1DE" WindowStartupLocation="CenterScreen">
+    <Grid x:Name="GridTotal">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Border BorderBrush="Black" BorderThickness="3" Margin="25,5,5,10" x:Name="Image">
+                <Image Source="img/fork.png"/>
+            </Border>
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0.5*"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Nom de l'ustensile" FontSize="16" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="10,0,0,4" x:Name="Ustensile_nom"/>
+
+                <Grid Grid.Row="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.3*"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="0.5*"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="0.5*"/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="0.2*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Text="Quantité :" FontWeight="Normal" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,0,0,0" x:Name="Titre2"/>
+                    <TextBox x:Name="QuantiteUst" BorderBrush="black" RenderTransformOrigin="0,0.5" BorderThickness="0,1,1,1" Grid.Column="1" Style="{StaticResource zonetxt}" Margin="5,0,0,7" PreviewTextInput="QuantiteUst_PreviewTextInput" MaxLength="3"/>
+
+                    
+
+                    <Grid Grid.Column="3" Grid.Row="1" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+                        <Button Content="Ajouter" Grid.Row="1" Style="{StaticResource zoneButton}" Click="Ajout_confirmation"/>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\bin\Debug\netstandard2.0\Persistance.deps.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\bin\Debug\netstandard2.0\Persistance.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\bin\Debug\netstandard2.0\Persistance.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\obj\Debug\netstandard2.0\Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\obj\Debug\netstandard2.0\Persistance.AssemblyInfo.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\obj\Debug\netstandard2.0\Persistance.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\obj\Debug\netstandard2.0\Persistance.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Persistance\obj\Debug\netstandard2.0\Persistance.csprojAssemblyReference.cache

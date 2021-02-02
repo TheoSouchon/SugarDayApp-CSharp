@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "znKK/EOJ0s872rz//ixwb6omrjMLQgVKYXS0Zzrs+/kJ4gKFBSosp6bcULdwd4vjyAmzxIXMmpnW+ItjqKJfPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Theo\\Desktop\\ProjetAppliC\\Code\\SugarDay\\Persistance\\Persistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Theo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Theo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

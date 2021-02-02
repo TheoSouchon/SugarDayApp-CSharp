@@ -1,0 +1,9 @@
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\bin\Release\netstandard2.0\CsharpCode.deps.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\bin\Release\netstandard2.0\CsharpCode.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\bin\Release\netstandard2.0\CsharpCode.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\obj\Release\netstandard2.0\CsharpCode.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\obj\Release\netstandard2.0\CsharpCode.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\obj\Release\netstandard2.0\CsharpCode.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\obj\Release\netstandard2.0\CsharpCode.AssemblyInfo.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\obj\Release\netstandard2.0\CsharpCode.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\CsharpCode\obj\Release\netstandard2.0\CsharpCode.pdb

@@ -1,0 +1,36 @@
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.AssemblyInfo.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.exe
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.deps.json
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.runtimeconfig.json
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.runtimeconfig.dev.json
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\CsharpCode.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\CsharpCode.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.csproj.CopyComplete
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.genruntimeconfig.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.exe
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.deps.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.runtimeconfig.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.runtimeconfig.dev.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Programme.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\CsharpCode.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\CsharpCode.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.AssemblyInfo.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.csproj.CopyComplete
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Programme\obj\Debug\netcoreapp3.1\Programme.genruntimeconfig.cache

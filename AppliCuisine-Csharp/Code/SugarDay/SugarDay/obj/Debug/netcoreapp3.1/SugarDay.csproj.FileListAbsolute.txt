@@ -1,0 +1,86 @@
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.exe
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.deps.json
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.runtimeconfig.json
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.runtimeconfig.dev.json
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\CsharpCode.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\CsharpCode.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\FenetreProfilUser.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay_MarkupCompile.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay_MarkupCompile.lref
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\FenetreProfilUser.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.g.resources
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.AssemblyInfo.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.csproj.CopyComplete
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.genruntimeconfig.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\img\ArrowLeft.png
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\img\Utilisateur.jpg
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.exe
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.deps.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.runtimeconfig.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.runtimeconfig.dev.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\SugarDay.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\CsharpCode.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\CsharpCode.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\Accueil.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\AjouterIngredient.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\AjouterUstensile.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\AvisRecette.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\Connexion.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\DétailsDeRecette.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\FenetreIngredientActuel.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\FenetreUstensileActuel.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\Inscription.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\ModifierCréerRecette.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\Profil.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\UC\Deconnexion_button.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\UC\Non_connecté.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\UC\ProfilButton.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\UC\UConnexion.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay_Content.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay_MarkupCompile.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay_MarkupCompile.lref
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\Accueil.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\AjouterIngredient.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\AjouterUstensile.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\AvisRecette.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\Connexion.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\DétailsDeRecette.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\FenetreIngredientActuel.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\FenetreUstensileActuel.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\Inscription.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\ModifierCréerRecette.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\Profil.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\UC\Deconnexion_button.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\UC\Non_connecté.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\UC\ProfilButton.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\UC\UConnexion.baml
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.g.resources
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.AssemblyInfo.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.csproj.CopyComplete
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\obj\Debug\netcoreapp3.1\SugarDay.genruntimeconfig.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\SugarDay\bin\Debug\netcoreapp3.1\Test.pdb

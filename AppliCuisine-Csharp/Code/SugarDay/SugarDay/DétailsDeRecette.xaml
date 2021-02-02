@@ -1,0 +1,162 @@
+﻿<Window x:Class="SugarDay.DétailsDeRecette"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SugarDay"
+        mc:Ignorable="d"
+        Title="DétailsDeRecette" Height="450" Width="800" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+
+    
+    <Grid Background="#ECE1DE" x:Name="GridTotal">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="3*" MaxWidth="700"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.1*"/>
+            <RowDefinition Height="3*" MaxHeight="440"/>
+            <RowDefinition Height="0.1*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="0.3*"/>
+                <RowDefinition Height="0.3*"/>
+                <RowDefinition Height="0.3*"/>
+                <RowDefinition Height="0.2*"/>
+                <RowDefinition Height="3.2*"/>
+                <RowDefinition Height="0.2*"/>
+                <RowDefinition Height="0.5*"/>
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="7" MaxHeight="40">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <Button Content="Les avis" Style="{StaticResource zoneButton}" Grid.Column="2" Margin="0,0,70,10" Click="Bouton_AvisRec"/>
+            </Grid>
+
+
+            <TextBlock Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontWeight="Bold" FontSize="16" FontStyle="Italic" x:Name="NomRecette" Text="{Binding Nom}"/>
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Text="Temps nécessaire" Grid.Column="0" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontWeight="Bold" x:Name="Titre1"/>
+                <TextBlock Text="Difficulté" Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontWeight="Bold" x:Name="Titre2"/>
+                <TextBlock Text="Note" Grid.Column="2" VerticalAlignment="Bottom" HorizontalAlignment="Center" FontWeight="Bold" x:Name="Titre3"/>
+            </Grid>
+
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                
+                <TextBlock Text="min" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="65,0,0,0" FontSize="15" x:Name="Titre7"/>
+                <TextBlock Grid.Column="0" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="14" Text="{Binding TpsPrepa}" x:Name="TextTpsPrepa"/>
+                <TextBlock Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="14" Text="{Binding Difficulté,StringFormat={}{0} /5}" x:Name="TextDifc"/>
+                <TextBlock Grid.Column="2" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="14" Text="{Binding Note_final,StringFormat={}{0} /5}" x:Name="TextNote"/>
+            </Grid>
+
+            <Grid Grid.Row="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <ListBox SelectedIndex="0" x:Name="ListeIngredientRecette" Grid.Row="5" Margin="0,30,5,0">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock Text="{Binding Aliment}"/>
+                                <Line StrokeThickness="2" Stroke="Black" X2="100"></Line>
+                                <TextBlock Text="{Binding Quantite}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <TextBlock Text="Ingrédients : X Personnes" x:Name="Titre6" Margin="0,0,0,180">
+                    <TextBlock.TextDecorations>
+                        <TextDecoration/>
+                    </TextBlock.TextDecorations>
+                </TextBlock>
+                <Rectangle VerticalAlignment="Stretch" Width="1" Stroke="Black" Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left" Fill="Black"/>
+
+                <Grid Grid.Column="2" MaxHeight="210">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.3*"/>
+                        <RowDefinition Height="1.3*"/>
+                        <RowDefinition  MaxHeight="120"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Préparation :" Margin="10,0,0,0" Grid.Row="0" x:Name="Titre4">
+                        <TextBlock.TextDecorations>
+                            <TextDecoration/>
+                        </TextBlock.TextDecorations>
+                    </TextBlock>
+
+                    <TextBlock Text="Ustensiles :" Margin="10,5,0,0" Grid.Row="2" x:Name="Titre5">
+                        <TextBlock.TextDecorations>
+                            <TextDecoration/>
+                        </TextBlock.TextDecorations>
+                    </TextBlock>
+
+
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Column="1" Margin="5,0,0,0" Grid.Row="1" >
+                        <TextBox x:Name="PrapaText" BorderBrush="Black" MinHeight="100" Text="{Binding Préparation,Mode=OneWay}" TextWrapping="Wrap" AcceptsReturn="True" Style="{StaticResource preparationtxt}" />
+                       </ScrollViewer>
+
+                    <ListBox SelectedIndex="0" x:Name="ListeUstensileRecette" Grid.Row="3" Margin="5,25,0,0">
+                        <ListBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <WrapPanel/>
+                            </ItemsPanelTemplate>
+                        </ListBox.ItemsPanel>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Background="White" Orientation="Vertical" >
+                                    <TextBlock Text="{Binding Nom}"/>
+                                    <Line StrokeThickness="2" Stroke="Black" X2="100"></Line>
+                                    <TextBlock Text="{Binding Quantite}"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+                
+            </Grid>
+            
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="La Sucrerie" Grid.Column="1"  FontWeight="Bold"  FontSize="40" VerticalAlignment="Center" Margin="30,0,0,0" x:Name="TitrePage"/>
+                <Button Click="Click_Back_Home" Grid.Row="1" x:Name="Bouton_Home" BorderBrush="Transparent" Background="Transparent">
+                    <Button.Content>
+                        <Image Source="img/home-icon2.png"/>
+                    </Button.Content>
+                </Button>
+                
+                
+            </Grid>
+            
+        </Grid>
+        
+    </Grid>
+</Window>

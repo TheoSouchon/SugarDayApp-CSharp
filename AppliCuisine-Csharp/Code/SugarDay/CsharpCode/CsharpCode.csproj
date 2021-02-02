@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon>Sweets-01-512.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>

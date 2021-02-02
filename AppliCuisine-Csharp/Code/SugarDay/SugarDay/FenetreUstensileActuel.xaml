@@ -1,0 +1,73 @@
+﻿<Window x:Class="SugarDay.FenetreUstensileActuel"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SugarDay"
+        mc:Ignorable="d"
+        Title="FenetreUstensileActuel" Height="450" Width="800" WindowStartupLocation="CenterScreen" Background="#ECE1DE" Closing="Window_Closing">
+    <Grid Background="#ECE1DE" x:Name="GridTotal">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition Width="5*" MaxWidth="700"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="7*" MaxHeight="440"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0.2*"/>
+                <RowDefinition Height="0.2*"/>
+                <RowDefinition/>
+                <RowDefinition Height="0.2*"/>
+            </Grid.RowDefinitions>
+            <Button Content="Sauvegarder" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Style="{StaticResource zoneButton}" Click="Sauvegarder_Ust" MinWidth="95"/>
+            <TextBlock Text="Cliquez sur les ustensiles dans la liste à gauche afin de l'ajouter à la recette" FontSize="16" HorizontalAlignment="Center" VerticalAlignment="Bottom" x:Name="TitrePage"/>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="Tous les Ustensiles" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,4" x:Name="Titre2"/>
+                <TextBlock Text="Ustensiles actuels" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,4" Grid.Column="1" x:Name="Titre3"/>
+            </Grid>
+
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="8" />
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+
+
+                <ListBox x:Name="ListeUstensileXaml" Margin="0,0,20,0" SelectionChanged="ListBoxUst_ElementChangé" Grid.Column="1">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock Text="{Binding Nom}"/>
+                                <Line StrokeThickness="2" Stroke="Black" X2="100"></Line>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <ListBox x:Name="ListeUstensileActuel" Margin="5,0,0,0" Grid.Column="3" ItemsSource="{Binding Outils}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel>
+                                <TextBlock Text="{Binding Nom}"/>
+                                <Line StrokeThickness="2" Stroke="Black" X2="40"></Line>
+                                <TextBlock Text="{Binding Quantite}"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

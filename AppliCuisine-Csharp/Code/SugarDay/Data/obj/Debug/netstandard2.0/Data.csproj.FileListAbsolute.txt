@@ -1,0 +1,24 @@
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\bin\Debug\netstandard2.0\CsharpCode.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\bin\Debug\netstandard2.0\CsharpCode.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Mise en commun\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\bin\Debug\netstandard2.0\Data.deps.json
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\bin\Debug\netstandard2.0\Data.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\bin\Debug\netstandard2.0\Data.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\bin\Debug\netstandard2.0\CsharpCode.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\bin\Debug\netstandard2.0\CsharpCode.pdb
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.csprojAssemblyReference.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.AssemblyInfoInputs.cache
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.AssemblyInfo.cs
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.csproj.CopyComplete
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.dll
+C:\Users\Theo\Desktop\ProjetAppliC\Code\SugarDay\Data\obj\Debug\netstandard2.0\Data.pdb
